@@ -5,7 +5,7 @@ date:   2017-06-12 22:04:31 -0700
 categories: git, github, clean, nuke, hello
 ---
 
-## Wash & Clean your Git repo & Github
+## Wash & clean your git & github repos
 
 We're going to kick this blog off with a litle post on Git. I hope to write about different topics and I hope to write at least once a month. Time will tell if I can keep that up. 
 
