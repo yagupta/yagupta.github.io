@@ -15,7 +15,9 @@ I write code/scripts at work - check them in and then continue them on a differe
 
 Over time, I have way too many check-ins and I want to get rid of them. I am not working in a team - I've just gotten my baseline working and I have no use for all the information associated with those check-ins and the space that they consume. I thought [git](https://git-scm.com) would offer a a command to do this - but I don't think it does. After some searching, here is what I came up with. In my setup - I use the master branch (simple personal projects) and use github as my cloud repo. 
 
-Goal - to remove any information about prior check-ins and make the current commit the first checkin.
+---
+
+**Goal** - to remove any information about prior check-ins and make the current commit the first checkin.
 
 Steps 
 
